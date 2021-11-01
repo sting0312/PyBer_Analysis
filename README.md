@@ -7,6 +7,7 @@ data is analyzed to show these results.
 
 # Results
 ![This is an image](https://github.com/sting0312/PyBer_Analysis/analysis/Pyber_fare_summary.png)
+
 The line graph shows that there were many more riders in urban environments than rural, which is 
 assumed data already, but that the average fare per ride was much higher in the rural areas, and suburban areas, than 
 the urban ones.
